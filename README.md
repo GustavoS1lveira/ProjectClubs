@@ -1,6 +1,6 @@
 <h1>⚽ Football Clubs Explorer</h1>
 
-<p align="center">
+<p>
   A front-end learning project focused on building a website about football clubs in England.
 </p>
 
