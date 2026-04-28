@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(90deg, #1f3b44, #2c5364);
+
+  display: flex;
+  justify-content: center;  /* horizontal */
+  align-items: center;      /* vertical */
+  height: 100vh;
+}
+
+/* container principal */
+.top-bar {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  background-color: rgba(255,255,255,0.05);
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+
+.top-bar {
+  display: flex;
+  flex-direction: column; /* empilha */
+  align-items: center;
+  gap: 15px;
+}
